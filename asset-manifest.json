@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arun18-eng/reactgame.git/static/css/main.cda79160.css",
-    "main.js": "/arun18-eng/reactgame.git/static/js/main.685932bf.js",
-    "static/js/453.882586d9.chunk.js": "/arun18-eng/reactgame.git/static/js/453.882586d9.chunk.js",
-    "index.html": "/arun18-eng/reactgame.git/index.html",
-    "main.cda79160.css.map": "/arun18-eng/reactgame.git/static/css/main.cda79160.css.map",
-    "main.685932bf.js.map": "/arun18-eng/reactgame.git/static/js/main.685932bf.js.map",
-    "453.882586d9.chunk.js.map": "/arun18-eng/reactgame.git/static/js/453.882586d9.chunk.js.map"
+    "main.css": "/reactgame/static/css/main.cda79160.css",
+    "main.js": "/reactgame/static/js/main.6a72871f.js",
+    "static/js/453.882586d9.chunk.js": "/reactgame/static/js/453.882586d9.chunk.js",
+    "index.html": "/reactgame/index.html",
+    "main.cda79160.css.map": "/reactgame/static/css/main.cda79160.css.map",
+    "main.6a72871f.js.map": "/reactgame/static/js/main.6a72871f.js.map",
+    "453.882586d9.chunk.js.map": "/reactgame/static/js/453.882586d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cda79160.css",
-    "static/js/main.685932bf.js"
+    "static/js/main.6a72871f.js"
   ]
 }
